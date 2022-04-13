@@ -1,0 +1,11 @@
+20011071 Tarik Esen 2 7
+22011002 Tyrion Lannister 0 0
+22011004 Cersei Lannister 1 4
+22011005 Daenerys Targaryen 1 4
+22011006 Jon Snow 0 0
+22011007 Catelyn Tully 0 0
+22011008 Jaime Lannister 0 0
+22011009 Robb Stark 0 0
+22011010 Theon Greyjoy 0 0
+22011011 Arya Stark 0 0
+22011012 New Student 0 0
