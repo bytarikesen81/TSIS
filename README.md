@@ -1,2 +1,2 @@
 # TSIS
-Küçük ölçekli, konsol tabanlı öğrenci bilgi sistemi
+A small scale, console-based college information and management system
